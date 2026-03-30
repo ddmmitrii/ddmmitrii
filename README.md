@@ -17,6 +17,9 @@
 ## 🎓 Education
 - Bachelor of Software Engineering in [ITMO University](https://itmo.ru/)
 
+## 🌱 Projects
+- Сo-founder of [ASNC](https://github.com/KuzyaFarts)
+
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ddmmitrii) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](d.emelianoff@gmail.com) 
